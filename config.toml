@@ -1,0 +1,4 @@
+baseURL = "http://dissonantdreamland.space/"
+languageCode = "en-us"
+title = "Dissonant Dreamland"
+theme = "ananke"
